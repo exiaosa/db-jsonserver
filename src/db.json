@@ -1,0 +1,40 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"iPhone 13",
+      "color":"pink",
+      "price":999,
+      "category": "mobile",
+      "brand":"Apple",
+      "photo":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDXaot2vouWM9k67_pllE460KDXfPhJyO_PXlAraeffgmbW-Y7vuOQpUXKB4VuvSamH5yFb71qvhE&usqp=CAc"
+    },
+    {
+      "id":2,
+      "name":"Samsung A03s",
+      "color":"black",
+      "price":179,
+      "category": "mobile",
+      "brand":"Samsung",
+      "photo":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRr3CJAPZVLmahVp7Y7q6YvndXeWHnD-4czzRx96Zg1nPyn_tJsyLKuTYd2drYWwBp44nntRwJxFEGw&usqp=CAc"
+    },
+    {
+      "id":3,
+      "name":"T shirt",
+      "color":"white",
+      "price":900,
+      "category": "cloth",
+      "brand":"CUCCI",
+      "photo":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgi-etmuhKSES7o5fquunS9JinimbtNT7QExJOBG0kGSS-EUAm2C_XShzExgP_xpyM6vDSIefMZhNCojILQnLWpDyupbz6NtNVo4Y6O1eWUFZRNAIcAesm6w&usqp=CAc"
+    },
+    {
+      "id":4,
+      "name":"CUCCI Men's Screener",
+      "color":"white",
+      "price":1525,
+      "category": "CUCCI",
+      "brand":"Samsung",
+      "photo":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNHjLxv0Cr5D2dQySnhDN7cdk_zeuf5QYJ-r25-fpRUOVN9n5ru_ypVysAiMkGlHxJY0NHaKf9gfFUcR8i3nCYzwMHyNzIdTXeheVsyWMa_I2n0FrzOiwWDQ&usqp=CAc"
+    }
+  ]
+}
